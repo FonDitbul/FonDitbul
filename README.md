@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 ### Language
 <div align="Left" style="margin: 10px">
-  
   <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
   <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 </div>
@@ -24,11 +23,13 @@ Here are some ideas to get you started:
 ### Frontend
 <div align="Left" style="margin: 10px">
   <img alt="Nodejs" src ="https://img.shields.io/badge/Nodejs-339933.svg?&style=for-the-badge&logo=Nodedotjs&logoColor=white"/>
+  <img alt="TypeScript" src ="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white"/>
+  
   <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
   <img alt="MobX" src ="https://img.shields.io/badge/MobX-FF9955.svg?&style=for-the-badge&logo=MobX&logoColor=white"/>
   <img alt="Svelte" src ="https://img.shields.io/badge/Svelte-FF3E00.svg?&style=for-the-badge&logo=Svelte&logoColor=white"/>
-  <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
-  <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
+  <img alt="HTML5" src ="https://img.shields.io/badge/HTML-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
+  <img alt="CSS3" src ="https://img.shields.io/badge/CSS-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
 
 </div>
 
