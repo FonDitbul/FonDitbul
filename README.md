@@ -56,7 +56,8 @@ Here are some ideas to get you started:
 
 ### Etc
 <div align="Left" style="margin: 10px">
-  <img alt="Socket" src ="https://img.shields.io/badge/Socketdotio-010101.svg?&style=for-the-badge&logo=Socketdotio&logoColor=white"/>
+  <img alt="Socket" src ="https://img.shields.io/badge/Socketio-010101.svg?&style=for-the-badge&logo=Socketdotio&logoColor=white"/>
+  <img alt="NGINX" src ="https://img.shields.io/badge/NGINX-009639.svg?&style=for-the-badge&logo=NGINX&logoColor=white"/>
   <img alt="Ubuntu" src ="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white"/>
   <img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
   <img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/>
