@@ -23,8 +23,10 @@ Here are some ideas to get you started:
 
 <div align="center" style="margin: 10px">
   Frontend
-  <img alt="Nodejs" src ="https://img.shields.io/badge/Nodejs-339933.svg?&style=for-the-badge&logo=Nodejs&logoColor=white"/>
-
+  <img alt="Nodejs" src ="https://img.shields.io/badge/Nodedotjs-339933.svg?&style=for-the-badge&logo=Nodedotjs&logoColor=white"/>
+  <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
+  <img alt="MobX" src ="https://img.shields.io/badge/MobX-FF9955.svg?&style=for-the-badge&logo=MobX&logoColor=white"/>
+  <img alt="Svelte" src ="https://img.shields.io/badge/Svelte-FF3E00.svg?&style=for-the-badge&logo=Svelte&logoColor=white"/>
 </div>
 
 <div align="center" style="margin: 10px">
@@ -45,4 +47,6 @@ Here are some ideas to get you started:
 <div align="center" style="margin: 10px">
   Etc
   <img alt="Socket" src ="https://img.shields.io/badge/Socketdotio-010101.svg?&style=for-the-badge&logo=Socketdotio&logoColor=white"/>
+  <img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
+  <img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/>
 </div>
