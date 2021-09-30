@@ -15,19 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Language
-<div align="center" style="margin: 10px">
+<div align="Left" style="margin: 10px">
   
   <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
   <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 </div>
+
 ### Frontend
 <div align="center" style="margin: 10px">
-  
   <img alt="Nodejs" src ="https://img.shields.io/badge/Nodedotjs-339933.svg?&style=for-the-badge&logo=Nodedotjs&logoColor=white"/>
   <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
   <img alt="MobX" src ="https://img.shields.io/badge/MobX-FF9955.svg?&style=for-the-badge&logo=MobX&logoColor=white"/>
   <img alt="Svelte" src ="https://img.shields.io/badge/Svelte-FF3E00.svg?&style=for-the-badge&logo=Svelte&logoColor=white"/>
 </div>
+
 ### Backend
 <div align="center" style="margin: 10px">
   
@@ -39,12 +40,14 @@ Here are some ideas to get you started:
   <img alt="Flask" src ="https://img.shields.io/badge/Flask-000000.svg?&style=for-the-badge&logo=Flask&logoColor=white"/>
   <img alt="FastAPI" src ="https://img.shields.io/badge/FastAPI-009688.svg?&style=for-the-badge&logo=FastAPI&logoColor=white"/>
 </div>
+
 ### Database
 <div align="center" style="margin: 10px">
   
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white"/>
   <img alt="MariaDB" src ="https://img.shields.io/badge/MariaDB-003545.svg?&style=for-the-badge&logo=MariaDB&logoColor=white"/>
 </div>
+
 ### Etc
 <div align="center" style="margin: 10px">
   
