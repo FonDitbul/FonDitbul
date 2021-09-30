@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ### Frontend
 <div align="Left" style="margin: 10px">
-  <img alt="Nodejs" src ="https://img.shields.io/badge/Nodedotjs-339933.svg?&style=for-the-badge&logo=Nodedotjs&logoColor=white"/>
+  <img alt="Nodejs" src ="https://img.shields.io/badge/Nodejs-339933.svg?&style=for-the-badge&logo=Nodedotjs&logoColor=white"/>
   <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
   <img alt="MobX" src ="https://img.shields.io/badge/MobX-FF9955.svg?&style=for-the-badge&logo=MobX&logoColor=white"/>
   <img alt="Svelte" src ="https://img.shields.io/badge/Svelte-FF3E00.svg?&style=for-the-badge&logo=Svelte&logoColor=white"/>
