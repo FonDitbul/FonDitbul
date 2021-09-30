@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </div>
 
 ### Frontend
-<div align="center" style="margin: 10px">
+<div align="Left" style="margin: 10px">
   <img alt="Nodejs" src ="https://img.shields.io/badge/Nodedotjs-339933.svg?&style=for-the-badge&logo=Nodedotjs&logoColor=white"/>
   <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
   <img alt="MobX" src ="https://img.shields.io/badge/MobX-FF9955.svg?&style=for-the-badge&logo=MobX&logoColor=white"/>
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 </div>
 
 ### Backend
-<div align="center" style="margin: 10px">
+<div align="Left" style="margin: 10px">
   
   <img alt="Express" src ="https://img.shields.io/badge/Express-000000.svg?&style=for-the-badge&logo=Express&logoColor=white"/>
   <img alt="NestJS" src ="https://img.shields.io/badge/NestJS-E0234E.svg?&style=for-the-badge&logo=NestJS&logoColor=white"/>
@@ -42,16 +42,16 @@ Here are some ideas to get you started:
 </div>
 
 ### Database
-<div align="center" style="margin: 10px">
+<div align="Left" style="margin: 10px">
   
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white"/>
   <img alt="MariaDB" src ="https://img.shields.io/badge/MariaDB-003545.svg?&style=for-the-badge&logo=MariaDB&logoColor=white"/>
 </div>
 
 ### Etc
-<div align="center" style="margin: 10px">
-  
+<div align="Left" style="margin: 10px">
   <img alt="Socket" src ="https://img.shields.io/badge/Socketdotio-010101.svg?&style=for-the-badge&logo=Socketdotio&logoColor=white"/>
+  <img alt="Ubuntu" src ="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white"/>
   <img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
   <img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/>
 </div>
