@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 <div align="center" style="margin: 10px">
   Python
   <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
-  <img alt="Django" src ="https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>
+  <img alt="Django" src ="https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white"/>
   <img alt="Flask" src ="https://img.shields.io/badge/Flask-000000.svg?&style=for-the-badge&logo=Flask&logoColor=white"/>
   <img alt="FastAPI" src ="https://img.shields.io/badge/FastAPI-009688.svg?&style=for-the-badge&logo=FastAPI&logoColor=white"/>
 </div>
 
-<img alt="Socket" src ="https://img.shields.io/badge/Socketio-010101.svg?&style=for-the-badge&logo=Socketio&logoColor=white"/>
+<img alt="Socket" src ="https://img.shields.io/badge/Socketdotio-010101.svg?&style=for-the-badge&logo=Socketdotio&logoColor=white"/>
