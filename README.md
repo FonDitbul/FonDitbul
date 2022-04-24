@@ -14,14 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Language
+# FonDitbul Github
+- 🔭 I’m currently working on : https://injewelme.com
+- 💬 Ask me about : niki7084@naver.com
+- 📫 My Github : https://github.com/FonDitbul
+
+
+# Language
 <div align="Left" style="margin: 10px">
   <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
   <img alt="TypeScript" src ="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white"/>
   <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 </div>
 
-### Frontend Framework
+# Frontend Framework
 <div align="Left" style="margin: 10px">
   <img alt="Nodejs" src ="https://img.shields.io/badge/Nodejs-339933.svg?&style=for-the-badge&logo=Nodedotjs&logoColor=white"/>
 <!--   <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
@@ -32,7 +38,7 @@ Here are some ideas to get you started:
 
 </div>
 
-### Backend Framework
+# Backend Framework
 <div align="Left" style="margin: 10px">
   
   <img alt="Express" src ="https://img.shields.io/badge/Express-000000.svg?&style=for-the-badge&logo=Express&logoColor=white"/>
@@ -43,7 +49,7 @@ Here are some ideas to get you started:
   <img alt="FastAPI" src ="https://img.shields.io/badge/FastAPI-009688.svg?&style=for-the-badge&logo=FastAPI&logoColor=white"/>
 </div>
 
-### Database
+# Database
 <div align="Left" style="margin: 10px">
   
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white"/>
@@ -52,15 +58,13 @@ Here are some ideas to get you started:
   
 </div>
 
-### Etc
+# Etc
 <div align="Left" style="margin: 10px">
-  <img alt="Socket" src ="https://img.shields.io/badge/Socketio-010101.svg?&style=for-the-badge&logo=Socketdotio&logoColor=white"/>
-  <img alt="NGINX" src ="https://img.shields.io/badge/NGINX-009639.svg?&style=for-the-badge&logo=NGINX&logoColor=white"/>
+<!--   <img alt="Socket" src ="https://img.shields.io/badge/Socketio-010101.svg?&style=for-the-badge&logo=Socketdotio&logoColor=white"/> -->
+<!--   <img alt="NGINX" src ="https://img.shields.io/badge/NGINX-009639.svg?&style=for-the-badge&logo=NGINX&logoColor=white"/> -->
   <img alt="Ubuntu" src ="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white"/>
   <img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
   <img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/>
 </div>
 
-- 🔭 I’m currently working on : injewelme.com
-- 💬 Ask me about : niki7084@naver.com
-- 📫 My Github : https://github.com/FonDitbul
+
