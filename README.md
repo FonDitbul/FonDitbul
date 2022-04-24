@@ -61,7 +61,6 @@ Here are some ideas to get you started:
   <img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/>
 </div>
 
-
-블로그 : https://blog.naver.com/niki7084
-
-깃허브 : https://github.com/FonDitbul
+- 🔭 I’m currently working on : injewelme.com
+- 💬 Ask me about : niki7084@naver.com
+- 📫 My Github : https://github.com/FonDitbul
