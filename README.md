@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # FonDitbul Github
-- 🔭 I’m currently working on : https://injewelme.com
 - 💬 Ask me about : niki7084@naver.com
 - 📫 My Github : https://github.com/FonDitbul
 
