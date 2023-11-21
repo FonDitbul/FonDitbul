@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Introduction
-😄 [[자기소개 About me]](https://fonditbul.github.io/)  
+😄 [[자기소개 About me]](https://fonditbul.github.io/about)  
 > 🌱 `I want to become a professional backend developer`
 ***
 📝 [[블로그 Blog]](https://fonditbul.github.io/)  
