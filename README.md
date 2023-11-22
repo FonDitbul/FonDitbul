@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 ***
 📫 [[깃헙 페이지 My Github]](https://github.com/FonDitbul)  
 ***
-💬 [[이메일] Ask me about](niki7084@naver.com)  
+💬 [이메일] Ask me about niki7084@naver.com
 
 
